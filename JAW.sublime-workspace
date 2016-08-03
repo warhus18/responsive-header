@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"dark",
+				"dark-gray"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"trans",
+				"transTime"
+			],
+			[
+				"overflow",
+				"overflow-y"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"trs",
+				"transTime"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"ligh",
+				"light-blue"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"top",
+				"topInfo"
+			],
+			[
+				"art",
+				"articleBlurb"
+			],
+			[
+				"ou",
+				"ourStaff"
+			],
+			[
+				"sideM",
+				"sideMenuHolder"
+			],
+			[
+				"25px",
+				"275px"
+			],
+			[
+				"side",
+				"sideMenuHolder"
+			],
+			[
+				"treatm",
+				"treatmentContent"
+			],
+			[
+				"treatme",
+				"treatment-area-list"
+			],
+			[
+				"treatment",
+				"treatmentContent"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"or",
+				"orange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/_global.scss",
+			"settings":
+			{
+				"buffer_size": 3861,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_typography.scss",
+			"settings":
+			{
+				"buffer_size": 1749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 1860,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_navigation.scss",
+			"settings":
+			{
+				"buffer_size": 7079,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/framework/_flex.scss",
+			"settings":
+			{
+				"buffer_size": 3055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/framework/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/framework/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/framework/_start.scss",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 120.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/404.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/index.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/503.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/403.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/footer.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/header.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/meta.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/.htaccess",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_pages.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_global.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/start.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/framework/_flex.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/vendor/_select2.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/vendor/_chosen.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_forms.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/functions.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/settings.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/local.settings.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-front-end-development.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-logo-design.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-taliesin-west.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-trapezium.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-cavity-crushers.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-seckel-capital.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-cosmetic-eyes.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-globe-international.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/contact.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/about.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/about-resume.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_navigation.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/js/jquery.allPages.js",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-my-mothers-pretzels.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio-younglobe.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_base.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/_typography.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/leverage.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/style.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/framework/_start.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/framework/_mixins.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/framework/_framework.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/js/jquery.contact.js",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sticky-header.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/framework/_grid.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/project.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/prettyDate.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/install.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/config.rb",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/.gitignore",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/taliesin-west.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/portfolio/taliesin-west.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/js/jquery.includes.js",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/js/responsiveImg.js",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/js/responsiveImg.js.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/sample.local.settings.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/lib/generateSitemap.php",
+		"/Users/jessicawarhus/Desktop/Brolik/JAW_portfolio/sass/vendor/_styleGuide.scss",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Wyoming.html",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Utah.html",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Colorado.html",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_ElPaso.html",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_NewMexico.html",
+		"/Users/jessicawarhus/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Arizona.html",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/page.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/LILA.sublime-project",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Utah.html",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_NewMexico.html",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_ElPaso.html",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Colorado.html",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Arizona.html",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/collection-loop.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/all-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/page.vendor.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/all-international-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/related-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/product-loop.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/international.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/collection-template.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/all-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/all_products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/product.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/layout/theme.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/collection.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/sass/_index.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/sass/style.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/sass/_headerNav.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/assets/style.css",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/sass/_global.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/index.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/helper-homepage-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/product.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/international-template.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/all-sales.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/snippets/all-vintage-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/home.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/page.contact.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify/templates/article.liquid",
+		"/Users/jessicawarhus/Desktop/Old Compy/Freelance/DPM/desertpeak/Accordions/Accordion_Template_Wyoming.html",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/sass/_global.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/sass/_pages.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/patient-results.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/sass/_responsive.scss",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/our-team.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/our-practice.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/news-and-media.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/news-and-media-generated.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/lunchtime-treatment.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/index.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/footer.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/header.php",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/js/jquery.allPages.js",
+		"/Users/jessicawarhus/Desktop/Brolik/MLCS/website/lib/local.settings.php",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/config.rb",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/shopify/snippets/collection-template.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/shopify/snippets/collection-loop.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/shopify/templates/index.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/shopify/assets/style.css",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/005_Website/shopify/assets/styles.scss.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/snippets/collection-loop.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/templates/collection.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/layout/theme.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/sass/_global.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/sass/_contact.scss",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/assets/style.css",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/snippets/all-products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/templates/product.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/templates/all_products.liquid",
+		"/Users/jessicawarhus/Desktop/Projects/020_Lila/lila-fashion-international-9862453/templates/all-products.liquid"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jessicawarhus/Desktop/Projects/020_Lila/006_website/shopify",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"process",
+			"design",
+			"visual",
+			"wireframes",
+			"design",
+			"visual",
+			"message",
+			"name",
+			"Name",
+			"name",
+			"subnav",
+			">\n",
+			"portfolio",
+			"slideshow",
+			"tucker",
+			"slideshow_",
+			"vikin",
+			"lunchtime ",
+			"press",
+			"hr",
+			"content",
+			"pagination",
+			"search",
+			"hover",
+			"itali",
+			"Victori",
+			"cadco",
+			"southern",
+			"southern pride",
+			"southern",
+			"subnav",
+			"focusfoodservice",
+			"focus",
+			"cal-mil.jpg",
+			"cal",
+			"snap drape",
+			"staff-view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/_global.scss",
+					"settings":
+					{
+						"buffer_size": 3861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								781
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/_typography.scss",
+					"settings":
+					{
+						"buffer_size": 1749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/_base.scss",
+					"settings":
+					{
+						"buffer_size": 1860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 101.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_navigation.scss",
+					"settings":
+					{
+						"buffer_size": 7079,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/framework/_flex.scss",
+					"settings":
+					{
+						"buffer_size": 3055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1361.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sass/framework/_grid.scss",
+					"settings":
+					{
+						"buffer_size": 1447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "sass/framework/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "sass/framework/_start.scss",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 26.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"assets/style.css"
+			],
+			[
+				"global",
+				"sass/_global.scss"
+			],
+			[
+				"style.css",
+				"assets/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}
